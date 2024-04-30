@@ -1,4 +1,4 @@
-# Data-Governance
+# 1. DEFINING DATA GOVERNANCE
 ## Defining & Understanding Data Governance
 
 ### What is Data Governance?
@@ -166,9 +166,59 @@ This list is not exhaustive and there may be other items you consider relevant t
 
 _As you read through this course and begin planning your data governance program, return to this list often and assess the status of each item._
 
+# 2. EXPLORING A WORLD OVERFLOWING WITH DATA
 
+## Defining Data
 
+Data refers to collections of digitally stored units, in other words, stuff that is kept on a computing device. These units represent something meaningful when processed for a human or a computer. Single units of data are traditionally referred to as datum and multiple units as data. However, the term data is often used in singular and plural contexts
 
+Prior to processing, data doesn’t need to make sense individually or even in combination with other data. For example, data could be the word orange or the number 42. In the abstract and most basic form, something we call raw data, we can agree that these are both meaningless.
 
+Data is also defined based on its captured format. Specifically, at a high level, it falls into one of the following categories:
+
+**Structured**: Data that has been formatted to a set structure; each data unit fits nicely into a table in a database. It’s ready for analysis. Examples include first name, last name, and phone number.
+**Unstructured**: Data that are stored in a native format must be processed to be used. Further work is required to enable analysis. Examples include email content and social media posts.
+Semi-structured: Data that contains additional information to enable the native format to be searched and analyzed.
+
+_Units of data are largely worthless until they are processed and applied. It’s only then that data begins a journey that, when coupled with good governance, can be very useful. The value that data can bring to so many functions, from product development to sales, makes it an important asset._
+
+To begin to have value, data requires effort, a theme I will keep returning to throughout this course. If we place the word orange in a sentence, such as “An orange is a delicious fruit,” suddenly the data has meaning. Similarly, if we say, “The t-shirt I purchased cost me R42.00,” then the number 42 now has meaning. What we did here was to process the data by means of structure and context to give it value. Put another way, we converted the data into information.
+
+This basic action of data processing cannot be overstated, as it represents the core foundation of an industry that has ushered in our current period of rapid digital transformation. Today, the term data processing has been replaced with information technology (IT).
+
+### Zettabyte
+
+Today, we live in the zettabyte era. A zettabyte is a big number. A really big number. It’s 1021, or a 1 with 21 zeros after it. It looks like this: 1,000,000,000,000,000,000,000 bytes.
+This datasphere — the term used to describe all the data created — is projected to reach over 100 zettabytes by 2023 and may double in 3-4 years. If you own a terabyte drive at home or for school, you’d need one billion of those drives to store just one zettabyte of data.
+
+Table 1a Quantification of Data Storage
+Table 1b Examples of Data Volumes
+
+8 bits=1 byte
+1024 bytes=1 kilobyte
+1024 kilobytes=1 megabyte
+1024 megabytes=1 gigabyte
+1024 gigabytes=1 terabyte
+1024 terabytes=1 petabyte
+1024 petabytes=1 exabyte
+1024 exabytes=1 zettabyte
+1024 zettabytes=1 yottabyte
+1024 yottabytes=1 brontobyte
+
+Table 1b: Examples of Data Volumes
+
+**UNIT**                 **VALUE**             **EXAMPLE**
+Kilobytes (KB) | 1,000 bytes | a paragraph of a text document
+Megabytes (MB) | 1,000 Kilobytes | a small novel
+Gigabytes (GB) | 1,000 Megabytes | Beethoven’s 5th Symphony
+Terabytes (TB) | 1,000 Gigabytes | all the X-rays in a large hospital
+Petabytes (PB) | 1,000 Terabytes | half the contents of all US academic research libraries
+Exabytes (EB) | 1,000 Petabytes | about one fifth of the words people have ever spoken
+Zettabytes (ZB) | 1,000 Exabytes | as much information as there are grains of sand on all the world’s beaches
+Yottabytes (YB) | 1,000 Zettabytes | as much information as there are atoms in 7,000 human bod
+
+Understanding that we are in an era of vastly expanding data volume, often at the disposal of organizations, elevates the notion that managing this data well is complex and valuable.
+
+Managing a small amount of data can have challenges, but managing data at scale is materially more challenging. If you’re going to glean value from data, it has to be understood and managed in specific ways.
 
 
