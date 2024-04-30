@@ -66,6 +66,7 @@ The basic steps for creating a data governance program:
 8. Maintaining the program.
 
 ![image](https://github.com/sikmat/Data-Governance/assets/111583727/5a0285a5-086a-4f33-bf67-7759a2b578d8)
+
 Figure 1: The most common elements of a data governance program
 
 _In summary, data governance is about managing data well and helping to deliver its optimum value to your organization. It includes ensuring your data is available, usable, and secure. It’s the actions that team members take, the policies and processes they must follow, and the use of technologies that support them throughout the data lifecycle in their organization._
@@ -75,6 +76,7 @@ _In summary, data governance is about managing data well and helping to deliver 
 Regardless of how and to what degree you implement the elements of a data governance program, you’ll need a basic set of guiding concepts and a structure in which to apply them. This is called the data governance framework.
 
 ![image](https://github.com/sikmat/Data-Governance/assets/111583727/e5988bb1-24f3-4a0c-8663-e3ac0dec5c1c)
+
 Figure 2: Common components of a data governance framework.
 
 The data governance framework in Figure 2 is not in a specific order, with the exception of leadership and strategy, which is a prerequisite for the rest of the framework.
