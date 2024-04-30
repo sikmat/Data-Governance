@@ -109,6 +109,8 @@ _A large number of disparate stakeholders need to work together in order to effe
 
 ## Preparing for Data Governance
 
+Data governance requires careful treatment, beginning with understanding whether an organization is ready to accept it. Being ready as an organization involves determining the extent to which a data culture exists. Ensuring that the organization’s strategy is fully aligned with the proposed program. Misalignment here is the number one reason data governance program deployments fail.
+
 
 
 
