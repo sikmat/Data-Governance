@@ -51,3 +51,57 @@ Some of the main advantages achieved by good data governance include:
 
 In the absence of formalized data governance, organizations will continue to struggle in achieving these advantages and may, in fact, suffer negative consequences. For example, poor-quality data that is not current, inaccurate, and incomplete can lead to operating inefficiencies and poor decision-making.
 Data governance does not emerge by chance. It’s a choice and requires organizational commitment and investment.
+
+### Creating a Data Governance Program
+
+The basic steps for creating a data governance program:
+
+1. Defining the vision, goals, and benefits.
+2. Analyzing the current state of data governance and management.
+3. Developing a proposal based on the first two steps, including a draft plan.
+4. Achieving leadership approval.
+5. Designing and developing the program.
+6. Implementing the program.
+7. Monitoring and measuring performance.
+8. Maintaining the program.
+
+![image](https://github.com/sikmat/Data-Governance/assets/111583727/5a0285a5-086a-4f33-bf67-7759a2b578d8)
+Figure 1: The most common elements of a data governance program
+
+_In summary, data governance is about managing data well and helping to deliver its optimum value to your organization. It includes ensuring your data is available, usable, and secure. It’s the actions that team members take, the policies and processes they must follow, and the use of technologies that support them throughout the data lifecycle in their organization._
+
+### Developing a Data Governance Framework
+
+Regardless of how and to what degree you implement the elements of a data governance program, you’ll need a basic set of guiding concepts and a structure in which to apply them. This is called the data governance framework.
+
+![image](https://github.com/sikmat/Data-Governance/assets/111583727/e5988bb1-24f3-4a0c-8663-e3ac0dec5c1c)
+Figure 2: Common components of a data governance framework.
+
+The data governance framework in Figure 2 is not in a specific order, with the exception of leadership and strategy, which is a prerequisite for the rest of the framework.
+
+### Leadership and Strategy
+Your data governance program must be aligned with the strategy of the organization. For example, how can data governance support the role that data plays in enabling growth in specific markets? Data plays a role in many aspects of organizational strategy, including risk management, innovation, and operational efficiencies, so you must ensure there’s a clear alignment between these aspects and the goals of data governance.
+
+_The disconnect between business goals and data governance is the number one reason that data governance programs fail. When mapping organizational strategy to data governance, you need the support, agreement, and sponsorship of senior leadership. I’ll be blunt about this: Without full support from your organization’s leaders, your data governance efforts won’t succeed._
+
+### Roles and Responsibilities
+Your data governance program will only be possible with the right people doing the right things at the right time. Every data governance framework includes the identification and assignment of specific roles and responsibilities, which range from the information technology (IT) team to data stewards.
+
+_While specific roles do exist, your organization must understand that data governance requires responsibilities from nearly everyone._
+
+### Policies, Processes, and Standards
+At the heart of every data governance program are the policies, processes, and standards that guide responsibilities and support uniformity across the organization. Each of these must be designed, developed, and deployed. Depending on the size and complexity of the organization, this can take significant effort.
+
+_Policies, processes, and standards must include accountability and enforcement components; otherwise it’s possible they will be dead on arrival._
+
+### Metrics
+The data governance program must have a mechanism to measure whether it is delivering the expected results. Capturing metrics and delivering them to a variety of stakeholders is important for maintaining support, which includes funding. You’ll want to know if your efforts are delivering on the promise of the program. Based on the metrics, you and your team can make continuous improvements (or make radical changes) to ensure that the program is producing value.
+
+### Tools
+Fortunately, a large marketplace now exists for tools in support of data governance and management. These include tools for master data management, data catalogs, search, security, integration, analytics, and compliance. In recent years, many data science-related tools have made leaps in terms of incorporating ease-of-use and automation. What used to be complex has been democratized and empowered more team members to better manage and derive value from data.
+
+### Communications and Collaboration
+With the introduction of data governance and the ongoing, sometimes evolving, requirements, high-quality communications are key. This takes many forms, including in-person meetings, emails, newsletters, and workshops. Change management, in particular, requires careful attention to ensure that impacted team members understand how the changes brought about by the data governance program affect them and their obligations.
+
+_A large number of disparate stakeholders need to work together in order to effectively govern data. Collaboration is essential and can be the difference between success and failure. Good collaboration requires a positive culture that rewards teamwork. It also requires clear channels between teams, such as regular meetings. Online collaboration platforms are increasingly being used too._
+
