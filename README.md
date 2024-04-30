@@ -111,15 +111,60 @@ _A large number of disparate stakeholders need to work together in order to effe
 
 Data governance requires careful treatment, beginning with understanding whether an organization is ready to accept it. Being ready as an organization involves determining the extent to which a data culture exists. Ensuring that the organization’s strategy is fully aligned with the proposed program. Misalignment here is the number one reason data governance program deployments fail.
 
+### What is data culture?
 
+Many well-designed projects and initiatives fall flat and fail even though their teams seem to have done everything right. Too often, the work gets deployed into an environment that is either not ready for change or doesn’t have the optimum conditions for success. 70 percent of organizations are failing because they don’t have the prerequisite data culture to support their tech upgrades.
+Culture will always defeat the greatest of strategies almost every time. Imagine for a moment designing and deploying a data governance program for an organization that has little or no data culture.
 
+_On a basic level, data culture is how your organization values data and how it manages and uses it. There’s a wide chasm between companies that simply manage data as a consequence of doing business versus those that consider data central to how their organization operates and makes decisions (the latter being the qualities exhibited by a mature data culture)._
 
+### Assessing the Data Culture
 
+Effective data cultures support and empower all employees, from the newest intern to the CEO, to access and use meaningful and timely data for their work. Such cultures ensure that employees have attained the skills they need to use data analytics and can make good data-driven decisions. 
 
+_In a data culture, decisions don’t rely on gut feelings, guesses, or the opinion of the highest-paid/ranking person in the room. Rather, decisions are based on data and the insights they can produce._
 
+To be competitive, a progressive data-driven strategy is no longer optional. It’s a central concern. Data culture can be now considered a new way of doing business in the digital age.
 
+Leaders in all types of organizations are recognizing that to succeed in the third decade of the 21st century and beyond, they must leverage the enormous power and value of data. This acknowledgment, and the actions that senior leaders take to foster the use of data, is the primary success factor in the development and maturity of an effective data culture.
 
+Trust comes in a close second. This means that team members will only make data-driven decisions if they trust the data they’re using. Trust is built when data is high-quality, its origin and value are understood, and team members know how it can contribute to the goals of the business.
 
+To start, you need to assess the maturity of your organization’s data culture. You and your team can interview leaders and team members. You can also observe how people make decisions, how decisions are communicated, and the degree to which data is currently governed and managed. It won’t be just one thing that provides a score for your data culture, but a mix of inputs. If the conclusion is that your data culture is sufficient for the introduction of a data governance program, you’re in good shape.
+
+_What you shouldn’t lose sight of here is that implementing data governance will be a positive and important contributing factor to building a data culture._
+
+### Maturing the Data Culture
+
+If you decide that you need to better prepare the organization for data governance by maturing the data culture, consider these items to start.
+
+1. Help leaders communicate the value of data and model the type of behavior that demonstrates that data is a priority. This must include communicating the positive results of using data.
+2. Provide basic tools and education for data use that include manipulating data, analytics, data cleansing, basic query commands, and visualization. Don’t overlook the remarkable capabilities of common applications such as spreadsheets.
+3. Do something, even if it’s small, to show progress. A successful data culture doesn’t begin with the deployment of complex, far-reaching solutions. Rather, it can be eased into the organization via basic data-management skills offered in a classroom setting or online.
+4. Recognize that resistance and frustration are part of the journey. Rather than fighting it, find ways to bring comfort and rewards to team members. At a minimum, provide a channel for feedback and positive discussion.
+
+### Assessing Data Governance Readiness
+
+A few other items you should consider in order to determine if your organization is ready for a data governance program. If the right conditions don’t exist, you may be walking into a minefield, only one step away from disaster.
+Unfortunately, the success rate of data governance programs on the first try remains low. It’s important to maximize the conditions for success. You may not get a second chance.
+
+The following basic checklist of items will help you determine the data governance readiness of your organization:
+
+1. The basis of a data culture exists.
+2. The program is 100 percent aligned with business strategy.
+3. Senior leadership is 100 percent committed to the program and its goals.
+4. Senior leadership understands this is a strategic, enterprise program and not the sole responsibility of the IT department.
+5. One or more sponsors have been identified at an executive level.
+6. The program has the commitment to fund its creation and to maintain it in the long term.
+7. The organization understands this is an ongoing program and not a one-off project.
+8. You have documented the return-on-investment (ROI).
+9. Legal and compliance teams (internally or externally) understand and support the goals of the program.
+10. Fundamental data skills exist for the data governance journey.
+11. The IT organization is capable and resourced to support the program.
+
+This list is not exhaustive and there may be other items you consider relevant to your organization.
+
+_As you read through this course and begin planning your data governance program, return to this list often and assess the status of each item._
 
 
 
