@@ -52,7 +52,7 @@ Some of the main advantages achieved by good data governance include:
 In the absence of formalized data governance, organizations will continue to struggle in achieving these advantages and may, in fact, suffer negative consequences. For example, poor-quality data that is not current, inaccurate, and incomplete can lead to operating inefficiencies and poor decision-making.
 Data governance does not emerge by chance. It’s a choice and requires organizational commitment and investment.
 
-### Creating a Data Governance Program
+## Creating a Data Governance Program
 
 The basic steps for creating a data governance program:
 
@@ -71,7 +71,7 @@ Figure 1: The most common elements of a data governance program
 
 _In summary, data governance is about managing data well and helping to deliver its optimum value to your organization. It includes ensuring your data is available, usable, and secure. It’s the actions that team members take, the policies and processes they must follow, and the use of technologies that support them throughout the data lifecycle in their organization._
 
-### Developing a Data Governance Framework
+## Developing a Data Governance Framework
 
 Regardless of how and to what degree you implement the elements of a data governance program, you’ll need a basic set of guiding concepts and a structure in which to apply them. This is called the data governance framework.
 
@@ -106,4 +106,22 @@ Fortunately, a large marketplace now exists for tools in support of data governa
 With the introduction of data governance and the ongoing, sometimes evolving, requirements, high-quality communications are key. This takes many forms, including in-person meetings, emails, newsletters, and workshops. Change management, in particular, requires careful attention to ensure that impacted team members understand how the changes brought about by the data governance program affect them and their obligations.
 
 _A large number of disparate stakeholders need to work together in order to effectively govern data. Collaboration is essential and can be the difference between success and failure. Good collaboration requires a positive culture that rewards teamwork. It also requires clear channels between teams, such as regular meetings. Online collaboration platforms are increasingly being used too._
+
+## Preparing for Data Governance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
