@@ -186,7 +186,7 @@ To begin to have value, data requires effort, a theme I will keep returning to t
 
 This basic action of data processing cannot be overstated, as it represents the core foundation of an industry that has ushered in our current period of rapid digital transformation. Today, the term data processing has been replaced with information technology (IT).
 
-### Zettabyte
+## Zettabyte
 
 ![image](https://github.com/sikmat/Data-Governance/assets/111583727/31765279-9b18-43b8-9240-498dffaa6fda)
 Figure 3: The qualitative and quantitative nature of data types
@@ -243,7 +243,7 @@ Understanding that we are in an era of vastly expanding data volume, often at th
 
 Managing a small amount of data can have challenges, but managing data at scale is materially more challenging. If you’re going to glean value from data, it has to be understood and managed in specific ways.
 
-### From Data to Insight
+## From Data to Insight
 
 Generally, an organization is onboarding data because it’s required for some purpose.
 _Data that is never used is about as useful as producing reports that nobody reads. The assumption is that you have data for a reason. You have your data and it’s incredibly important to your organization, but it must be converted to information to have._
@@ -279,10 +279,86 @@ Figure 5: Data leads to insight
 
 _Every day, different organizations with access to the same data have different outcomes. While the best outcome can’t be guaranteed no matter which processes, tools, or skills are used, good practices such as the right level of data governance can absolutely lead to better results._
 
+## The Role of Data in The 21st Century
 
+Since the 19th century has helped us understand the world in completely new ways, improved our ability to make better-informed decisions, and supported our efforts to solve all manner of problems. Data has always been important. The role of data has grown, more data and improvement in the quality and availability
 
+In these early decades of the 21st century, we are producing more data than we can handle, and the depth, breadth, and quality of the data that is being used are reshaping not just the tools and capabilities of our industries and cities, but the nature of how we learn, socialize, and entertain ourselves. It’s also elevating risks that we may previously have characterized as annoyances to a world today where a cyberattack can result in millions of dollars of losses in hours.
 
+There’s an argument that data has become the most valuable asset in the world. If we believe that to be true, then we can say with confidence that we have entered a new era for data and one that our career will be defined by.
 
+## Data-Driven Decision-Making
+
+Perhaps one of the greatest values of data is its ability to help us all make better decisions. Intuitively reading the customer reviews of a restaurant on a website such as Hello Peter or Google Reviews can help you decide whether you want to eat there. It’s valuable to you, but it’s also valuable to the restaurant owner. Those reviews can make a big difference, including being a motivation for action. Perhaps the restrooms should be cleaner.
+
+Deciding to enter a new market with an existing product or service requires a deep understanding that can come from rich sets of data. If the data exists and you have the tools to process and interpret it, you may be well-positioned to make the right decision. It may also be easier to decide because you’re able to get the answers to your concerns. Conversely, without good data and the skills and tools to analyze it, a bad and costly decision may result. This happens far too often.
+ 
+_The availability of abundant good quality data has been a boon for decision-making. You should note that I said good-quality data. Consider this; if you make a decision based on bad data, your challenges will be entirely different. **Abundant data is a product of the 21st century, but quality data is the product of deliberate actions**. Data governance plays a central role when aspiring for data quality._
+
+## Data as The New Oil
+
+Like oil, data has value but must first be processed to be useful. Specifically, oil is refined to make gas, plastics, and other useful chemicals. In a similar fashion, data must be organized and analyzed to understand patterns, make decisions, identify problems, and feed other systems.
+
+_Without these additional steps of organizing and analyzing, oil and data are similar in that they are notably messy and unusable in their raw form._
+
+The big economic powerhouses are being powered by data, such as the technology firms Facebook and Google. While they dominate, every other industry from banking to government and beyond is being reinvented by digitalization and data. Many are moving data management from a cost center to a profit center by making data power their businesses and generate new sources of revenue.
+
+Like oil, those who control large repositories of high-value data have disproportionate power. The challenges and results of our dependency on oil through the 20th century are well known. There are lessons here that should inform us and warn us about the risks of personal data being managed by just a few big market players.
+
+## Data Ownership
+
+Data ownership describes the rights a person, team, or organization has over one or more data sets. These rights may span from lightweight oversight and control to rigorous rules that are legally enforceable. For example, data associated with intellectual property — items such as copyrights and trade secrets — will likely have high degrees of protection, from accessibility rights to who can use the data and for what purpose.
+
+## Data Architecture
+
+Nowadays almost every organization is a technology business. All businesses need systems to support their operations and deliver their products and services.
+
+**Enterprise Architecture (EA**) is the practice of designing the technical needs of an organization to support its business strategy. 
+Using standards and established principles, organizations can analyze, design, plan, and implement the right technologies, policies, and projects to support business goals.
+
+A subset of EA, **Data Architecture** is the manner in which data design and management decisions are being made to align with EA and in turn, with the business. 
+**Data Architecture is the agreed blueprint for how data supports an organization’s functions and technologies.**
+
+_When high-quality enterprises and data architectures both exist, organizations run more smoothly, and they can transform as conditions (either internally or in the marketplace) dictate. The absence or poor implementation of both can stifle digital transformation efforts, create high levels of complexity, and increase the possibility of failure._
+
+At a minimum, data architecture considers and typically supports the following:
+
+- Ensuring data is available to those who need it and are approved to use it.
+- Reducing the complexity of accessing and utilizing data
+- Creating and enforcing data protections to support organizational policies and obligations.
+- Adopting and agreeing to data standards
+- Optimizing the flow and efficient use of data to eliminate bottlenecks and duplication
+
+Data architecture is a direct reflection of data governance. An established and functioning data architecture immediately signals that an organization values data, manages it as a critical business asset, and has controls in place to ensure that it aligns with business needs. Indeed, like EA, data architecture is not the exclusive realm of technologists but a cross-organizational responsibility. In most medium to large organizations, data must efficiently flow across business silos, such as sales and product development, and serve many different audiences in multiple forms.
+
+## The Lifecycle of Data
+
+All data goes through phases during its lifecycle
+
+![image](https://github.com/sikmat/Data-Governance/assets/111583727/e6709649-98e1-4c78-84ad-f153ea5fd142)
+Figure 6: The lifecycle of data
+
+1. **Creation**:  This is the stage at which data comes into being. It may be manual or automated and get created internally or externally. Data is created all the time by a vast number of activities that include system inputs and outputs.
+2. **Storage**:  Once data is created and assuming you want it available for later use, it must be stored. It most likely will be contained and managed in a database. The database needs a home, too as a local hard drive, server, or cloud service.
+3. **Usage**:  Hopefully you’re capturing and storing data because you want to use it. Maybe not immediately, but at some point, perhaps for analysis. Data may need to be processed to be useful. That could include cleansing it of errors, transforming it to another format, and securing access rights.
+4. **Archival**:  In this stage, you identify data that is not currently being used and move it to a long-term storage system out of your production environment. If it's needed at some point in the future, it can be retrieved and utilized.
+5. **Destruction**:  Despite a desire by some to keep everything forever, there is a logical point where destruction makes sense or is required by regulation or policy. Data destruction involves making data inaccessible and unreadable. It can include the physical destruction of a device such as a hard drive.
+
+_The idea that data is in different states at different times is an essential context of data governance. Depending on the stage of its life, data may be treated differently and have unique requirements. For example, the security needs of data being regularly used will differ from data in an archival state._
+
+## Understanding the Impact of Data
+
+One by-product of the Cold War, the space race between the United States and the Soviet Union, accelerated innovation in computing and telecommunications.
+
+### The Role of The U.S. Census in The Information Revolution
+
+Processing data on some form of computing device has been around since the late 1800s. In fact, the need for a mechanism to better tabulate the results of the U.S. constitutional requirement to conduct a population census every ten years is said to be the origin of data processing. Counting all the people and other data points in the 1880 census took almost eight years. It’s assumed it was full of errors. It was also a boring, tedious process. Credit for the first company to automate and commercialize the processing of this data goes to the Tabulating Machine Company, founded in 1896.
+
+The Tabulating Machine Company was later renamed International Business Machines, **IBM**. The rest, as they say, is history.
+
+These major developments and others culminated in what we now know as the _3rd industrial revolution: the information age_. Data quickly became the raw material feeding a new generation of productivity and ideas. Connectivity provided the arteries for information to freely flow across devices, organizations, and geographies with few limitations.
+
+The result? Data creation, storage, and use exploded. By the turn of this century, we were creating data at unprecedented levels. Data volume and velocity had become so unwieldy that it was creating a data swamp — a term for out-of-control amounts of data — that made it difficult for traditional software applications to manage. Observing this notable phenomenon, someone smart came up with a term to describe the scale and challenge of all the data. They called it _**Big Data**_.
 
 
 
