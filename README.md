@@ -243,6 +243,41 @@ Understanding that we are in an era of vastly expanding data volume, often at th
 
 Managing a small amount of data can have challenges, but managing data at scale is materially more challenging. If you’re going to glean value from data, it has to be understood and managed in specific ways.
 
+### From Data to Insight
+
+Generally, an organization is onboarding data because it’s required for some purpose.
+_Data that is never used is about as useful as producing reports that nobody reads. The assumption is that you have data for a reason. You have your data and it’s incredibly important to your organization, but it must be converted to information to have._
+
+**Data**                                                         
+- Raw
+- Items such as chars, words, images, numbers, with no meaning in isolation
+- No analysis dependency
+- Unorganized and not dependet on context 
+- Not typically useful alone
+                            
+ **Information**
+ - Processed
+ - Data that is organized and given context to have meaning
+ - Dependent on the analysis of data
+ - Organized and dependent on context
+ - Useful alone
+
+Information coupled with broader contextual concepts, practical application, and experience, it becomes _knowledge_. 
+Knowledge is actionable(It's power)
+
+When we apply reasoning, values and the broader universe of our knowledge and deep experiences to knowledge, we get _wisdom_.
+
+Insight emerges from knowledge but is demonstrated through a combination of knowledge and wisdom. With insight, we’ve gained a deeper understanding of something and have the skills to think or see it differently.
+
+![image](https://github.com/sikmat/Data-Governance/assets/111583727/53485e8b-b597-4e79-8062-8083e815d6aa)
+Figure 4: The journey from data to insight.
+
+Another depiction of the data-information-knowledge-wisdom (DIKW) hierarchy as a pyramid to manage knowledge is illustrated below:
+
+![image](https://github.com/sikmat/Data-Governance/assets/111583727/d017584a-1d53-402a-9f6a-5b673384a69c)
+Figure 5: Data leads to insight
+
+_Every day, different organizations with access to the same data have different outcomes. While the best outcome can’t be guaranteed no matter which processes, tools, or skills are used, good practices such as the right level of data governance can absolutely lead to better results._
 
 
 
