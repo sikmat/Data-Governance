@@ -566,5 +566,103 @@ _Data analytics involves the use of a variety of software tools depending on the
 
 ## Data Management
 
+Data governance concerns itself with, for example, defining the roles, policies, controls, and processes for increasing the quality and value of organizational data.
+
+Data management is the implementation of data governance. Without data management, data governance is just wishful thinking. To get value from data, there must be execution.
+
+If you collect and store data, technically you’re managing that data. What matters in data management is the degree of sophistication that is applied to managing the value and quality of data sets. If it’s on the low side, data may be a bottleneck rather than an advantage. Poor data management often results in data silos across an organization, security and compliance issues, errors in data sets, and overall low confidence in the quality of data.
+
+### Who would choose to make decisions based on bad data?
+
+When data is handled and treated as a valuable enterprise asset: insights are richer and timelier, operations run smoother, and team members have what they need to make more informed decisions. Well-executed data management can translate to reduced data security breaches, and lower compliance, regulatory, and privacy issues.
+
+Data management processes involve the collection, storage, organization, maintenance, and analytics of an organization’s data. It includes the architecture of technology systems such that data can flow across the enterprise and be accessed whenever and by whom it is approved for use. Additionally, responsibilities will likely include such areas as data standardization, encryption, and archiving.
+
+### Governing Data
+
+Governing data means that some level of control exists to support a related policy. _For example, an organization may decide that to reduce risk, there needs to be a policy that requires data to be backed up every day. The control would be the documentation of the process and enforcement of that policy. If, in the review of policy adherence, data wasn’t getting backed up, then you’d quickly know that governance, for whatever reason, was not working._
+
+The success of governing data can be reduced to three essential factors:
+
+- **People**:  While recognizing that data is increasingly created and used exclusively by machines without human intervention, handling and benefiting from data is still a highly people-centric exercise. Even in a machine-centric context, it’s people who are most often defining, designing, and maintaining data use. In governing data, people are the subject matter experts, they are responsible for quality, and they oversee and manage all related processes and responsibilities.
+- **Policies**:  A data policy contains a set of adopted rules by an organization that apply to the handling of data in specific conditions and for particular desired outcomes. These policies apply in areas such as quality, privacy, retention, and security. The number of policies is typically a reflection of the size of the organization, the industry, and the degree to which data is considered a high-priority asset. As you can imagine, the healthcare and financial industries, for example, which manage high volumes of sensitive data, have a significant number of data policies in support of their data governance programs.
+- **Metrics**:  It’s largely true, what gets measured gets managed. In developing policies in support of data governance, you have to consider how each is measured. For example, if a policy states that there shouldn’t be more than five risk events per month such as a regulatory requirement being out of compliance, then, assuming the metric is high to begin with, it should decrease over time. If it doesn’t decrease or it does and then fluctuates widely, there’s an issue with the relevant data management procedures. Metrics must be in support of both technical and business needs. 
+
+# 4. TRANSFORMING THROUGH DATA
+
+## Examining the Broader Value of Data
+
+The ability of team members to access data that they need for their work, without having to rely on specialists, is called data democratization.
+
+_As organizations grow and more systems are employed, eventually no single person knows what data is available and where it is in the enterprise. Without this knowledge, the ability to properly govern your data and leverage its value is greatly hampered. Without deliberate actions, data democratization becomes elusive._
+
+A data silo is a data repository controlled by an entity in an organization but not frequently shared or known by other parts of the business. Data silos hinder business efficiencies because they reduce collaboration and increase data inconsistencies. In addition, they are a source of risk, including security and regulatory issues.
+
+Data governance helps eliminate unnecessary data siloes and makes data discoverable and available whenever and wherever it adds value. 
+
+Unfortunately, most organizations don’t automatically come with a universal search engine that can help locate and serve up any type of data or information stored in the enterprise. Being able to tame and explore data sprawl — a term for the myriad of data types and sources that most businesses grapple with today — is not easily achieved without investing specialized effort.
+
+Knowing what data is available is essential for the following reasons:
+
+- Better informed decision-making.
+- Ensuring compliance and regulatory requirements.
+- Lower costs by avoiding duplicate system and data efforts.
+- Improved data analytics and reporting.
+- Higher performing systems.
+- More efficient operations.
+- Reducing data inconsistencies across the enterprise.
+Fortunately, the vendor community is ready to help you build your internal search capabilities. It’s taken some time, but solutions have come a long way. With investment and effort, finding data and information in the enterprise is possible.
+
+## Data Catalogs
+
+Like a store catalog that categorizes products and includes details such as availability and price, a data catalog lists the availability of data sets and includes a wide range of valuable details about that data.
+
+The three essential benefits of data catalogs are:
+
+- **Finding data**: Helps users identify and locate data that may be useful.
+- **Understanding data**:  Answers a wide variety of data questions such as its purpose and who uses it.
+- **Making data more useful**:  Creates visibility, describes value, and provides access to information.
+
+_Done right, a data catalog delivers a comprehensive inventory that provides an enterprise view of all data. This view provides essential insight that helps with leveraging data value and provides a robust tool to assist with data governance._
+
+![image](https://github.com/sikmat/Data-Governance/assets/111583727/d2e6835c-d1f4-44aa-a97f-4cdfbecbfc55)
+
+Figure 10: A basic orientation of the components of a data catalog
+
+What makes a data catalog particularly valuable is that it contains data about the data. It’s called metadata. This content can be curated manually and also by automated processes which can acquire it from other sources. Artificial intelligence (AI) is now playing a growing role in the latter.
+
+A data catalog can contain three types of metadata: technical, business, and operational.
+
+- **Technical metadata**:  Data about the design of a data set such as its tables, columns, file names, and other documentation related to the source system.
+- **Business metadata**:  Organizational data such as a business description, how it is used, its relevancy, an assessment of data quality, and users and their interactions.
+- **Operational metadata**:  Data such as when the data was last accessed, who accessed it, and when was it last backed up.
+
+Examples of metadata include the following:
+
+- Associated systems.
+- File names.
+- File locations.
+- Data owners.
+- Data descriptions.
+- Dates created.
+- Dates last modified.
+- List of database tables and views.
+- Data stewards.
+- Size of data sets.
+- Quality score.
+- Comments.
+
+For a large number of stakeholders ranging from data analysts to data stewards, a data catalog presents many advantages. Primarily, the ability to find data tops the list. But it provides much more than that.
+
+With a data catalog, an organization can:
+
+- Know what data it has (and by extension, know what data is missing).
+- Reduce data duplication.
+- Increase operational efficiencies and innovation.
+- Understand data quality.
+- Manage compliance.
+- Enjoy cost savings from improved operations.
+
+_A well-managed data catalog can be transformational for an organization. The effort to create and maintain one should not be understated. But, without a doubt, a data catalog is often the basis for delivering successful data governance and data management._
 
 
