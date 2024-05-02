@@ -665,4 +665,80 @@ With a data catalog, an organization can:
 
 _A well-managed data catalog can be transformational for an organization. The effort to create and maintain one should not be understated. But, without a doubt, a data catalog is often the basis for delivering successful data governance and data management._
 
+## Case Study: Unlocking Data Silos With a Data Catalog
+
+### From Data to Insights
+
+Insight provides a deep understanding of something and is the ultimate positive manifestation of data. It has the highest value to an organization because it can support decisions and drive actions.
+
+Whether an organization uses insight to support decisions or drive actions is a choice. Most organizations will do some of both, but when insights are used primarily to drive action, the value of the underlying data is truly realized. Put another way, actionable data is the most valuable data to an organization.
+
+_If you can’t use your data to make better decisions and drive your organization forward, the data may just be worthless._
+
+Acquiring and applying insight from data means defining the following:
+
+- **Context**: Understanding the environment and objectives of the outcome
+- **Need**: Determining how insight will help to accomplish the objective
+- **Vision**: Having ideas about how insight will help and what that might look like in practice
+- **Outcome**: Specifying how insights will be adopted and success will be measured
+
+These dimensions can be used to answer questions such as:
+
+- What data is required?
+- Does the data exist?
+- Is it current?
+- Is it easily available?
+- What format is the data in?
+- What kind of data analysis is required?
+- How will the data be presented?
+
+_Converting data into insights is no easy task. It’s complicated and skilled work and relies on good quality data that is accessible. Those tasked with delivering insights often cite data quality, data volume, work effort, and integrating data from various sources as the top reasons that make it difficult and create a deterrent to adoption._
+
+## Data Analytics
+
+Data analysis is concerned with identifying a data set, examining it, and reporting on any findings. It’s a subset of data analytics and it typically focuses on what data from the past tells us. On the other hand, data analytics is a complete science that involves collecting, cleaning, organizing, storing, administering, and analyzing data. In addition to informing you about the past, it is also used to help project possibilities into the future.
+
+The similarity in terms and overall purpose should be noted, but understanding the difference is important.
+
+The source of data for analytics is one or a combination of the following:
+
+**First-party data**:  Data that an organization collects.
+**Second-party data**:  Data that is obtained from another organization.
+**Third-party data**:  Aggregated data obtained from a provider.
+
+Typical uses of contemporary data analytics tools and techniques include:
+
+- Vastly improved decision-making
+- Focused marketing campaigns
+- Understanding the competitive landscape
+- Designing more innovative products
+- Better customer service
+- Improved operations
+- Insights on customer behavior
+
+_Any organization that is serious about increasing the use of data for a wide range of business purposes must be ready to govern its data analytics capabilities. This includes policies and procedures, experienced talent, and a suite of contemporary software tools._
+
+## Data Monetization
+
+Unlike tangible assets such as inventory and property, data falls into the same category as assets such as copyrights and software.
+
+Without a process to place a price on a data set - called data valuation - the value of a given data set may be highly subjective and may differ considerably between the perspectives of team members. In fact, it’s possible for an organization to not fully appreciate the value of specific data sets. Without this knowledge, it’s much harder to take advantage of the opportunities such as business growth and operational excellence.
+
+When data provides an economic benefit to an organization, it's called data monetization. It’s a succinct, albeit cruder, way to generally consider the ultimate role of data in a for-profit enterprise.
+
+Data valuation, while generally recommended in larger enterprises, is a requirement for advanced data monetization such as selling or licensing data.
+
+Many ways exist to determine data valuation. Here is a brief summary of a few methods.
+
+- **Cost value method**:  Value is calculated by determining how much it costs to produce, store, and replace lost data. It’s a simple method and can be useful as a lightweight approach, but it is subjective and doesn’t necessarily account for the economic value that the data can produce.
+- **Market value approach**:  Value is calculated by researching how comparable data is being priced in the open market. It’s a great approach if market-based comparable data exists but doesn’t work for the vast number of data sets that are not traded.
+- **Economic value approach**:  Value is calculated by measuring the impact a data set has on the business’s bottom line. It’s a difficult approach because it may be nearly impossible to identify the specific value of the data relative to other contributors of value.
+- **With-and-without method**:  Value is calculated by quantifying the impact on cash flow if a data set needs to be replaced. Scenarios with and without the data are explored and the difference between cash flow is used to determine data value. Like others, this can be challenging to pinpoint the specific impact of a data set.
+
+Assuming your organization realizes that data is a strategic corporate asset, you must be intentional in how you manage that asset. Called _data asset management_, a business must know what data sets it has and understand their value. It must have a plan for utilization and a mechanism to measure return on investment.
+
+_For optimal data monetization, organizations must manage high-value data with the same priority and rigor (and maybe even more) that it treats its most important tangible assets._
+
+
+
 
