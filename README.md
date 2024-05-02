@@ -791,6 +791,65 @@ A good data strategy will guide decision-making and resource allocation around d
 
 _If your organization doesn’t have a data strategy, create one. If you have a data strategy, make sure it’s current and effectively communicated._
 
+## Creating a Data Strategy
+
+consider the following characteristics as a guide to your approach:
+
+- **Data maturity**: This can be defined simply as the degree to which the organization already uses and optimizes data and has experience and skills, as well as the quality of the existing data. All organizations use data, but there’s a big difference between those that have prioritized it for a long period and those just deciding to treat it as a strategic asset. For example, without some basic data standards, security policies, and a process to cleanse data, layering analytics on top of it will likely cause frustration and in the worst case, errors in the results.
+- **Industry and size**: You can think of data prioritization through two frameworks: defense and offense. Defense deals with fundamental areas such as data security and quality. Offense is using data for insight management and market-facing initiatives. Every organization does both, but most emphasize one over the other depending on the industry and its size. For example, a healthcare company may prioritize a defense framework for data given the highly regulated nature of the industry.
+
+A data strategy should typically account for these five areas of data requirements:
+
+- **Identify**:  To find and make data usable, it must be clearly defined and described. This includes a file name, a file format, and metadata.
+- **Store**:  Design and develop the capabilities for supporting the place and process for hosting data and how it will be shared, accessed, and processed.
+- **Provision**:  Determine the processes to share and reuse data and define the guidelines for access.
+- **Process**:  Raw data must be transformed to become valuable. This includes processes for data cleansing, standardization, and integration with other data sets.
+- **Govern**:  Institute processes to manage and communicate data policies for data use within the organization.
+
+Data requirements should consider these four data strategy components:
+
+- **Alignment with the business**: A data strategy is a subset of the overall business strategy. This means the data strategy must support and advance the larger goals of the organization. When determining the goals of the data strategy, where possible, map them as clearly as possible to illustrate how they are in support of the business strategy. For example, the business may want to reduce customer acquisition costs. A data strategy will be a valuable way to identify potential customers with a higher likelihood of conversion to buyers. Keep in mind that the strategy of a business evolves constantly, sometimes slowly and other times quickly. Your data strategy has to evolve in sync, as appropriate.
+- **Identifying roles and responsibilities**: A strategy requires people to take specific actions. Without action, a strategy is a worthless document. In the data strategy, you’ll want to document the different roles that team members will play. Most will be data consumers. These are the employees who access and use data. They will certainly have responsibilities. For example, there will be an expectation about how different classifications of data should be handled. If something is public, then that’s entirely different than something that’s confidential. However, the bulk of the responsibility for ensuring that a data strategy can be delivered and maintained will rest with team members such as the information technology staff, data scientists and analysts, data stewards and owners, and management. It will be quickly apparent that data strategy and data governance have overlapping and dependent goals. 
+- **Data architecture**: This area relates to the processes, systems, and applications that support working with data. Basic areas include defining data storage needs and analysis tools. It also includes items such as a data catalog, a data warehouse where data can be stored and made ready for analysis, and the methods and tools for data pipelines, moving data from a data source to a destination, and related ETL (extract, transform, and load) functions. A data strategy should support the scalability of your data architecture as well as have some flexibility as needs change. Note that data architecture is often the driver of choosing and designing data management processes and systems.
+- **Data management**: This area is the broad umbrella of activities that manage the full lifecycle of data in an organization. It recognizes that data is a strategic asset and must have the attendant processes, procedures, policies, skills, and tools to ensure it is treated in such a manner. This includes areas such as the management of data security and privacy, quality, metadata, integration, master data management, and analytics.
+
+_Data governance establishes the rules for data use, and data management ensures that, in the act of realizing data value in the organization, these rules are followed. For example, a data governance policy may state that data with a certain confidentiality classification may only be accessible by a specific role level in the organization. Data management will be the processes, tools, and staff that ensure that this governance rule is followed._
+
+Since data strategy may need to evolve, data management and data governance must be updated in parallel. If either of them becomes out of sync with the data strategy, you should expect some dreadful problems to arise
+
+A summarized data strategy is depicted in Figure 11.
+
+![image](https://github.com/sikmat/Data-Governance/assets/111583727/f66c5159-7300-47a9-9c88-94ef849cfc3b)
+
+Figure 11: The four components of a data strategy
+
+## Managing and Monitoring Your Data Strategy
+
+_All strategies must be open to periodic modification. It’s not realistic to expect a strategy to be fixed for its duration in a fast-moving business world. Your evolving customer expectations, organizational needs, the economy, and more all play a role in forcing a strategy to adapt._
+
+As the strategy plays out, you’ll find errors and gaps. It will also become apparent whether the objectives, goals, and metrics were correctly calibrated. It’s a problem if any are way off the mark. These are all triggers to go back and review the plan and make any adjustments.
+
+Strategic corrections that are made in a timely fashion reflect good leadership.
+
+_The worst thing you can do is design a strategy, implement it, and place the plan on a shelf only to revisit it three to five years later. Unfortunately, this happens more often than not. It is something you experience often in your organization._
+
+Monitoring your data strategy means having the right metrics, getting feedback regularly from participants, and auditing related outcomes.
+
+All strategies, including your data strategy, must be regularly reviewed and modified as necessary. This is a core characteristic of an agile organization in the 21st century.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
