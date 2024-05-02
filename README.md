@@ -188,6 +188,9 @@ This basic action of data processing cannot be overstated, as it represents the 
 
 ### Zettabyte
 
+![image](https://github.com/sikmat/Data-Governance/assets/111583727/31765279-9b18-43b8-9240-498dffaa6fda)
+Figure 3: The qualitative and quantitative nature of data types
+
 Today, we live in the zettabyte era. A zettabyte is a big number. A really big number. It’s 1021, or a 1 with 21 zeros after it. It looks like this: 1,000,000,000,000,000,000,000 bytes.
 This datasphere — the term used to describe all the data created — is projected to reach over 100 zettabytes by 2023 and may double in 3-4 years. If you own a terabyte drive at home or for school, you’d need one billion of those drives to store just one zettabyte of data.
 
@@ -195,30 +198,58 @@ Table 1a Quantification of Data Storage
 Table 1b Examples of Data Volumes
 
 8 bits=1 byte
+
 1024 bytes=1 kilobyte
+
 1024 kilobytes=1 megabyte
+
 1024 megabytes=1 gigabyte
+
 1024 gigabytes=1 terabyte
+
 1024 terabytes=1 petabyte
+
 1024 petabytes=1 exabyte
+
 1024 exabytes=1 zettabyte
+
 1024 zettabytes=1 yottabyte
+
 1024 yottabytes=1 brontobyte
+
 
 Table 1b: Examples of Data Volumes
 
+
 **UNIT**                 **VALUE**             **EXAMPLE**
+
 Kilobytes (KB) | 1,000 bytes | a paragraph of a text document
+
 Megabytes (MB) | 1,000 Kilobytes | a small novel
+
 Gigabytes (GB) | 1,000 Megabytes | Beethoven’s 5th Symphony
+
 Terabytes (TB) | 1,000 Gigabytes | all the X-rays in a large hospital
+
 Petabytes (PB) | 1,000 Terabytes | half the contents of all US academic research libraries
+
 Exabytes (EB) | 1,000 Petabytes | about one fifth of the words people have ever spoken
+
 Zettabytes (ZB) | 1,000 Exabytes | as much information as there are grains of sand on all the world’s beaches
+
 Yottabytes (YB) | 1,000 Zettabytes | as much information as there are atoms in 7,000 human bod
 
 Understanding that we are in an era of vastly expanding data volume, often at the disposal of organizations, elevates the notion that managing this data well is complex and valuable.
 
 Managing a small amount of data can have challenges, but managing data at scale is materially more challenging. If you’re going to glean value from data, it has to be understood and managed in specific ways.
+
+
+
+
+
+
+
+
+
 
 
