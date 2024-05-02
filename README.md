@@ -514,8 +514,56 @@ _While reports do empower leaders and give them more tools, they don’t guarant
 - **Data reuse**:  While we collect and use data for a specific primary purpose, data is often reused for entirely different reasons. Data that has been collected, used, and stored can be retrieved and used by a different team at another time - assuming they have permission, including access and legal rights (notable controls within data governance). For example, the sales team in an organization will collect your name and address in order to fulfill an order. Later, that same data set may be used by the marketing team to create awareness about other products and services. These are two different teams with different goals using the same data. Data reuse can be considered a positive given that it reduces data collection duplication and increases the value of data to an organization, but it must be managed with care so that it doesn’t break any data use rules. (Note: **High-value shared data sets are called master data, and in data governance, they are subject to master data management**.)
 
 ## Improving Outcomes With Data
+
+It’s useful to understand how data can be leveraged to acquire its maximum value. It begins with recognizing that data is an organizational asset. This simply means that it’s something that brings economic value to the organization. When data is considered an asset - in fact, specifically a high-value asset - it often gets treated differently.
+
+_Perhaps the function that is most associated with data is the process of exploring it and looking for insights. Called data analytics, this is a comprehensive organizational function that requires skilled staff and tools. With the emergence of big data, data analytics has become more complex and requires deeper skills, but it’s also made data more valuable and important to the business._
+
 ## Approaching Data as an Asset
+
+An asset is something that is owned by a person, an organization, or a government with the expectation that it can bring some economic benefit. This includes the generation of income, the reduction of expenses, or an increase in net worth.
+
+_An asset can be tangible or intangible. Tangible assets are physical things such as inventory, machines, and property. That’s stuff you can see and touch. An intangible asset is the opposite; it’s a non-physical thing like software, copyrights, a brand, and goodwill. Data is an intangible asset._
+
+After it is processed from its raw form, data has the potential to create enormous economic value for all manner of stakeholders. Here are some examples of the economic value of data:
+
+- Improves operations.
+- Increases existing revenue.
+- Produces new forms of revenue.
+- Builds relationships with customers and other stakeholders.
+- Improves the quality of products and services.
+- Contributes to competitive advantage.
+- Enables innovation.
+- Reduces risk.
+
+Recognizing that data is an asset is the first step to good data governance.
+
+When you think of data as an asset, you’ll be concerned with whether it is good or bad data. You’ll pay attention to the data’s accuracy, completeness, validity, and more. It means the organization will be mindful of whether data is being used as an organizational resource or being hidden in silos. This will mean understanding how the data is being managed and who has responsibility for it. Without roles and accountabilities, data can’t truly be managed well.
+
+**Bottom line**: Data is an asset and for its value to be leveraged, it must be governed. This may be one of the most important motivations for good data governance.
+
 ## Data Analytics
+
+The process of examining data in order to produce answers or find conclusions is called data analytics. A formal and disciplined approach is conducted by a data analyst, and it’s a necessary step for any individual or organization that’s trying to make good decisions for their organization.
+
+The process of data analytics is varied depending on resources and context but generally follows the steps outlined in Figure 8:
+
+![image](https://github.com/sikmat/Data-Governance/assets/111583727/21bb8577-42b3-427e-a05c-92b7579b3ed4)
+Figure 8: Basics steps in data analysis
+
+Data analytics has four primary types.
+
+- **Descriptive**:  Existing data sets of historical data are accessed, and analysis is performed to determine what the data tells stakeholders about the performance of a key performance indicator (KPI) or other business objectives. It is insight on past performance.
+- **Diagnostic**:  As the term suggests, this analysis tries to glean from the data the answer to why something happened. It takes descriptive analysis and looks at the cause.
+- **Predictive**:  In this approach, the analyst uses techniques to determine what may occur in the future. It applies tools and techniques to historical data and trends to predict the likelihood of certain outcomes.
+- **Prescriptive**:  This analysis focuses on what action should be taken. In combination with predictive analytics, prescriptive techniques provide estimates of the probabilities of a variety of future outcomes.
+
+![image](https://github.com/sikmat/Data-Governance/assets/111583727/866dec13-1394-4607-be79-bb7b26c57dac)
+
+Figure 9: The relative complexity and business value of four types of analytics
+
+_Data analytics involves the use of a variety of software tools depending on the needs, complexities, and skills of the analyst. Beyond your favorite spreadsheet program, which can deliver a lot of capabilities, data analysts use products such as R, Python, Tableau, Power BI, QlikView, and others._
+
 ## Data Management
 
 
