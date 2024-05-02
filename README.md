@@ -739,6 +739,59 @@ Assuming your organization realizes that data is a strategic corporate asset, yo
 
 _For optimal data monetization, organizations must manage high-value data with the same priority and rigor (and maybe even more) that it treats its most important tangible assets._
 
+## Data-Driven Decision Making
+
+Perhaps the most important value for most enterprises to derive from data is the ability to make better, more-informed decisions. 
+_Simply stated, data-driven decision-making (DDDM) is the process of using data to drive business decisions._
+Organizations that excel at DDDM achieve it through deliberate actions and investments. Critically, there must be leadership support for a culture that advocates decisions rooted in data appreciation and analytics.
+
+Consider this six-step process to data-driven decision-making:
+
+1. **Define the objectives**: This step involves understanding the objectives relative to the effort and their alignment with organizational goals. This will help you scope the work and define the metrics. In fact, it can be useful to define success and then work backward. For example, if you’re trying to increase sales in a particular region, you need to identify which metrics to capture in order to determine whether you achieved that objective.
+2. **Identify the data**: In addition to using a data catalogue, enterprise search, or similar, this step requires engaging with impacted stakeholders. Getting input from a diverse group of people and teams will help you scope the data. This may generate the need to gather data that doesn’t exist. You may need to consult with data stewards, data owners, and others with data governance responsibilities.
+3. **Prepare the data**:  After Step 2, you'll understand the degree of preparation you need. If the problem you’re trying to solve is narrow and the data is easily accessible and high-quality, you’ll be in pretty good shape. In most cases, your situation is unlikely to be simple. The data necessary to meet your decision-making objectives will likely come in a variety of formats and will be in need of some remediation. You may need some deep data science skills to prepare the data for use in a data analytics platform.
+4. **Analyze the data**:  Once you reach this point, the most exciting part begins. The assumption is that you’re using a useful analytics tool. For complex analysis and continuous efforts, several tools will be used. This could include support for an ETL architecture (Extract, Transform, and Load). This is when data is extracted from one system and made ready and available for use in another. To analyze this data, you will also need relevant representations such as visualizations. These could include graphs and charts. Your tool selection and how the data is presented will depend largely on the audience. For executives, a dashboard may be the right approach.
+5. **Determine the findings**:  Once you have data that you can display in a variety of ways, you can ask questions about it. For example, if you’re trying to understand customer demographics relative to sales in a particular region, you may want to toggle between different age ranges. While all phases of DDDM have complexity, the tough work here is knowing which questions to ask. This skill is aided by training, but experience helps.
+6. **Take action**:  That’s all there is to this step. Make your decisions. If you’ve completed Steps 1-5 well, but no action is taken (assuming that’s not the decision based on analyzing the data since concluding that no decision is necessary is, in fact, a decision), you’ve wasted a lot of time. DDDM is all about the decisions that result in actions.
+
+_While a first pass at a new problem will require most of these steps in sequence, it’s common to iterate through some of the steps to get to a good place for analysis._
+
+## Developing a Data Strategy for Improved Results
+
+Many organizations take a more passive role relative to their data assets. Efforts are too often reactive. In addition, rather than having a plan and making strategic data-related investments, actions are either complementary to larger initiatives or responsive to some immediate challenge or opportunity.
+
+Consider these reasons that organizations don’t take a proactive approach to managing data:
+
+- “If it ain’t broke”, why fix it?
+- It’s too expensive and time-consuming to focus on data.
+- It’s far too complicated.
+- Data management and governance — what is that?
+
+Every one of these is valid. If your business is not open or able to recognize the potential upside of managing data as a high-value asset, it will be an uphill battle to convince them otherwise. 
+
+That said, once you make the decision to manage data as the high-value asset it is, you’re going to need a plan. That’s when a data strategy becomes the starting point.
+
+### Why does every organization need a data strategy?
+
+_The purpose of any type of strategy is to agree on a set of guiding principles that inform decision-making in support of a desired outcome. In simple terms, it’s the roadmap on how to reach your goals._
+
+Businesses have visions that describe why they exist. They have missions that state what they do. To achieve their visions and missions, a strategy will answer how they will do it.
+
+For a given end-state, people must agree on how decisions will be made and how resources will be allocated. A strategy must have clarity and make it easy for all leaders and team members to know what they need to do, what they need to avoid, and how actions should be prioritized.
+
+Operating without an agreed and current strategy carries enormous risks. People may have different ideas of what the desired outcomes are and as a result conflicts emerge.
+
+_The behavior and outcomes of organizations that have a clear and agreed-upon strategy are often evident. Research shows that they typically execute with efficiency, have higher profits, grow larger, and more frequently hit their other success targets._
+
+_After all, the existence of data does not equate to ensuring it is usable, accessible, high-quality, secure, and compliant. Additionally, turning data into value requires skills, policies, tools, and processes._
+
+You need a data strategy in order to elevate data to become a strategic resource. That strategy should reflect the size and complexity of your business and the industry in which you operate. Small businesses should have a data strategy, but they shouldn’t look anything like those used at a multinational level.
+
+A good data strategy will guide decision-making and resource allocation around data in support of the organization. It will demonstrate and communicate data as a priority and ensure that it is treated in a manner to optimize the success of the organization.
+
+_If your organization doesn’t have a data strategy, create one. If you have a data strategy, make sure it’s current and effectively communicated._
+
+
 
 
 
